@@ -18,4 +18,3 @@ Say goodbye to the hassle of remembering complex passwords or using the same pas
 
 Give it a try and start safeguarding your digital life today with PassVault Mini!
 
-# At the moment, PassVault Mini is undergoing active development to bring you even more exciting features. While it may not be fully feature-stable right now, I encourage you to give it a try and share your valuable feedback with me. This is just an experiment and my 3rd app after learning Python, so I'm still learning.
